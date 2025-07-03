@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantbhoj" alt="nishantbhoj" /></a> </p>
 
-- 🔭 I’m currently working on [P1](https://bento.me/nishantbhoj)
+- 🔭 I’m currently Learning AI/ML.
 
-- 👯 I’m looking to collaborate on [P2](https://bento.me/nishantbhoj)
+- 💬 Ask me about Data Analytics domain.
 
-- 🤝 I’m looking for help with [P3](https://bento.me/nishantbhoj)
+- 🤝 I’m looking for help with [Courses](https://www.linkedin.com/in/nishant-bhoj)
 
 - 👨‍💻 All of my projects are available at [https://bento.me/nishantbhoj](https://bento.me/nishantbhoj)
 
