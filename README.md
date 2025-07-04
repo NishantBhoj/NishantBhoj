@@ -9,7 +9,7 @@
 
 - 💬 Ask me about Data Analytics domain.
 
-- 🤝 I’m looking for help with [Courses](https://www.linkedin.com/in/nishant-bhoj)
+- 🤝 I’m looking for help with AI/ML [Courses](https://www.linkedin.com/in/nishant-bhoj)
 
 - 👨‍💻 All of my projects are available at [https://bento.me/nishantbhoj](https://bento.me/nishantbhoj)
 
