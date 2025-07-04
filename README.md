@@ -29,7 +29,8 @@
 <h3 align="left">Support:</h3>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantbhoj&show_icons=true&locale=en&layout=compact" alt="nishantbhoj" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantbhoj&show_icons=true&locale=en" alt="nishantbhoj" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantbhoj&" alt="nishantbhoj" /></p>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/nishantbhoj"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/nishantbhoj" /></a></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantbhoj&show_icons=true&locale=en&layout=compact" alt="nishantbhoj" /></p>
