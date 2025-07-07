@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Bhoj</h1>
 <h3 align="center">A passionate BI Analyst from India</h3>
 
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantbhoj&label=Profile%20views&color=0e75b6&style=flat" alt="nishantbhoj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantbhoj" alt="nishantbhoj" /></a> </p>
