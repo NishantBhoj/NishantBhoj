@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" width="1000" src="https://github.com/NishantBhoj/Images/blob/main/mario-working.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantbhoj&label=Profile%20views&color=0e75b6&style=flat" alt="nishantbhoj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantbhoj" alt="nishantbhoj" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantbhoj&theme=onedark" alt="nishantbhoj" /></a> </p>
 
 - 🔭 I’m currently Learning AI/ML.
 
