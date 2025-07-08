@@ -30,9 +30,9 @@
 
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <p align="center">
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=nishantbhoj&show_icons=true&locale=en&hide_border=true&hide=issues,contribs&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe"alt="nishantbhoj" />
+<img  src ="https://github-readme-stats.vercel.app/api?username=nishantbhoj&show_icons=true&locale=en&hide_border=true&bg_color=00000000&title_color=5fa0fe&text_color=ffffff&icon_color=5fa0fe"alt="nishantbhoj" />
 
-<img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=nishantbhoj&layout=compact&locale=en&hide_border=true&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff" alt="nishantbhoj" />
+<img  src ="https://github-readme-stats.vercel.app/api/top-langs?username=nishantbhoj&layout=compact&locale=en&hide_border=true&bg_color=00000000&langs_count=6&exclude_repo=Pacman-AI&title_color=5fa0fe&text_color=ffffff" alt="nishantbhoj" />
 
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=nishantbhoj&hide_border=true&background=00000000&stroke=5fa0fe&ring=5fa0fe&fire=5fa0fe&currStreakLabel=5fa0fe&sideNums=ffffff&currStreakNum=ffffff&dates=AAAAAA&sideLabels=ffffff">
 
@@ -45,14 +45,4 @@
 
 
 _____________________________________
-<h3 align="Center">Support:</h3>
-<p align="center">
 
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=nishantbhoj&show_icons=true&locale=en" alt="nishantbhoj" />
-<img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantbhoj&show_icons=true&locale=en&layout=compact" alt="nishantbhoj" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantbhoj&" alt="nishantbhoj" />
-
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/https://buymeacoffee.com/nishantbhoj"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/nishantbhoj" /></a>
-</p>
