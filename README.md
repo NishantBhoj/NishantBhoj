@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantbhoj&theme=onedark" alt="nishantbhoj" /></a> </p>
 
-- 🔭 I’m currently Learning AI/ML.
+- 🔭 I’m currently Learning BI Analytics.
 
 - 💬 Ask me about Data Analytics domain.
 
 - 🤝 I’m looking for help with AI/ML [Courses](https://www.linkedin.com/in/nishant-bhoj)
 
-- 👨‍💻 All of my projects are available at [https://bento.me/nishantbhoj](https://bento.me/nishantbhoj)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bento.me/nishantbhoj)
 
 - 📫 How to reach me **bhojnishant@gmail.com**
 
