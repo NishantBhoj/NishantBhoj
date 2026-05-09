@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishantbhoj&theme=onedark" alt="nishantbhoj" /></a> </p>
 
-- 🔭 I’m currently Learning BI Analytics.
+- 🔭 I’m currently Learning Microsoft Fabric.
 
 - 💬 Ask me about Data Analytics domain.
 
